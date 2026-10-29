@@ -1,0 +1,13 @@
+* C:\Users\Spart\Documents\GitHub\20buchgra.github.io\RC Car\boost.asc
+M1 N002 NC_01 0 0 NMOS ron={R1} Coss={C1}
+C2 N001 0 0.001
+V1 N001 0 {Vin}
+L1 N001 N002 {L}
+M2 N003 NC_02 N002 N002 NMOS ron={R2} Coss={C2}
+C1 N003 0 {C}
+R1 N003 0 {Rout}
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\Spart\Documents\LTspiceXVII\lib\cmp\standard.mos
+.backanno
+.end
