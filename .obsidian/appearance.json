@@ -1,5 +1,6 @@
 {
   "accentColor": "#03c700",
   "cssTheme": "Minimal",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }
