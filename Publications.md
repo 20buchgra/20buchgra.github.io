@@ -6,6 +6,7 @@ permalink: /publications/
 ### Spiking Ocular Controlled Robot
 #### Master's Thesis
 *Design and implementation of a spiking neural network controlled target-and-deliver robot*
+#### Graham Buchanan
 [Thesis](https://trace.tennessee.edu/handle/20.500.14382/36185)
 ### Dynamic Programming Resolution of Memristive Synapse (MWSCAS 2025)
 *Metal-oxide memristors, including H f O2, provide programmable memory based upon the actuation of a NFET gate in a 1T1R configuration. For computation, a digital-to-analog converter (DAC) modulates this gate with a fixed resolution. In this paper, a dynamic R-2R based DAC provides varying resolutions when setting the weights of the 1T1R synapse. This particular design allows the implementation of four binary resolutions with which to program the memristor, which can be independently set for each cell of the DPE. By setting the load of a current source, the device can achieve normal operation across multiple binary ranges simultaneously. Our proposed design shows a dynamic bit-resolution adaptation for a memristive architecture in a 65 nm process.*

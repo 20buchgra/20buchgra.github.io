@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publications.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "about"
             }
           }
         ]
@@ -198,11 +198,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3fbf8621fdf3683c",
+  "active": "a09079b10e6c83a3",
   "lastOpenFiles": [
-    "index.md",
-    "publications.md",
+    "_layouts/default.html",
+    "_layouts/New Text Document.txt",
+    "_includes/header.html",
+    "_includes/New Text Document.txt",
+    "_includes/header.html.md",
+    "_layouts/default.html.md",
     "about.md",
+    "_includes",
+    "_layouts",
+    "Untitled.md",
+    "publications.md",
+    "index.md",
     "about 1.md",
     "contact.md",
     "_config.yml.md",
@@ -214,11 +223,6 @@
     "RC Car/Copy_of_boost.net",
     "RC Car/boost.net",
     "RC Car/boost.asc",
-    "RC Car/basic.m",
-    "RC Car/untitled.asv",
-    "EPCGaN/EPCTab.m",
-    "EPCGaN/EPCName.m",
-    "EPCGaN/EPCFilter.m",
     "Figures/drawing.md"
   ]
 }
