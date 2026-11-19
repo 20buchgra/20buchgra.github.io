@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "publications"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "de583ea1d2645b8a",
   "lastOpenFiles": [
-    "index.md",
     "about.md",
+    "index.md",
     "publications.md",
     "about 1.md",
     "contact.md",
