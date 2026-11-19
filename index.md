@@ -7,7 +7,6 @@ title: Graham Buchanan
 This website contains a detailing of several accomplishments, projects, and thoughts. Please feel free to look around.
 
 ## Navigation:
-- [index](index.md)
 - [about](about.md)
 - [publications](publications.md)
 
