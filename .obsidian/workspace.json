@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "publications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,12 +212,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3310425f56f3de5d",
+  "active": "de583ea1d2645b8a",
   "lastOpenFiles": [
     "index.md",
-    "_config.yml.md",
     "about.md",
-    "Publications.md",
+    "publications.md",
+    "about 1.md",
+    "contact.md",
+    "_config.yml.md",
     "Figures/boost.png",
     "RC Car/Power Supply.md",
     "RC Car/Motor.md",
