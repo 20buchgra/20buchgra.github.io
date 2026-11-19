@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 # Background
 My parents started from little and worked hard to provide for their children. I earned scholarships and worked throughout college to pay for higher education. Today, I work as a graduate research assistant in Power Management Integrated Circuit (PMIC) design, and I look for new learning opportunities in various fields.
 
