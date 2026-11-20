@@ -32,5 +32,5 @@ Programming Languages I have experience with:
 - verilog/veriloga/systemverilog
 - vhdl
 
-# Stances
-As much as we like to divorce money/politics/religion, I do believe that everything is inherently interconnected. A part of maturity is learning about and participating in your community, to whatever extent you can. All people should be able to articulate their opinions and strive for personal growth in character, knowledge, and health. I do fear that certain elements of modern progress (re: AI and social media) can soften life to the point of hindering this personal growth.
+# Philosophy
+All people should be able to articulate their opinions and strive for personal growth in character, knowledge, and health. Self-improvement naturally leads to community involvement and leadership. This is how we save the world.
