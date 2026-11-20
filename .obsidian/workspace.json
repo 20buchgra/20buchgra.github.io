@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_config.yml.md",
+                "file": "publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_config.yml"
+              "title": "publications"
             }
           }
         ]
@@ -201,8 +201,8 @@
   "active": "a09079b10e6c83a3",
   "lastOpenFiles": [
     "index.md",
-    "_config.yml.md",
     "about.md",
+    "_config.yml.md",
     "publications.md",
     "_layouts/default.html",
     "_layouts/New Text Document.txt",
