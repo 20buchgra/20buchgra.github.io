@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_config.yml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "_config.yml"
             }
           }
         ]
@@ -201,6 +201,7 @@
   "active": "a09079b10e6c83a3",
   "lastOpenFiles": [
     "index.md",
+    "_config.yml.md",
     "about.md",
     "publications.md",
     "_layouts/default.html",
@@ -214,7 +215,6 @@
     "Untitled.md",
     "about 1.md",
     "contact.md",
-    "_config.yml.md",
     "Figures/boost.png",
     "RC Car/Power Supply.md",
     "RC Car/Motor.md",

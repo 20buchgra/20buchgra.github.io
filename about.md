@@ -3,9 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-# Background
-My parents started from little and worked hard to provide for their children. I earned scholarships and worked throughout college to pay for higher education. Today, I work as a graduate research assistant in Power Management Integrated Circuit (PMIC) design, and I look for new learning opportunities in various fields.
+All people should be able to articulate their opinions and strive for personal growth in character, knowledge, and health. Self-improvement naturally leads to community involvement and leadership. This is how we save the world.
 
 # Design Interests
 - Power Electronics
@@ -31,6 +29,3 @@ Programming Languages I have experience with:
 - js/html/css
 - verilog/veriloga/systemverilog
 - vhdl
-
-# Philosophy
-All people should be able to articulate their opinions and strive for personal growth in character, knowledge, and health. Self-improvement naturally leads to community involvement and leadership. This is how we save the world.
